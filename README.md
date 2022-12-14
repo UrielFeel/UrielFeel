@@ -15,3 +15,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,redux,nodejs,express,mongodb,java,postgres&perline=6" />
   </a>
 </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula )
